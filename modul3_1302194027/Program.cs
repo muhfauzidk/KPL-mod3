@@ -24,8 +24,6 @@ public class KodeBuah
             Console.WriteLine(getKodeBuah(i));
             i++;
         }
-
-
     }
 }
 
